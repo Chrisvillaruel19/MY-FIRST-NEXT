@@ -15,9 +15,9 @@ export default function CardDemo() {
   return (
     <div className="min-h-screen w-full flex-1 flex item-center justify-center content-center bg-[url('/bglog.jpg')] bg-cover bg-center ">
         <main>
-    <Card className="w-200 mt-50 backdrop-blur-sm bg-transparent text-white border-transparent border-2 shadow-lg shadow-white">
+    <Card className="w-200 mt-50 backdrop-blur-sm bg-transparent text-white border-transparent border-2 shadow-sm shadow-white">
       <CardHeader>
-        <CardTitle className="text-center">Login to your account</CardTitle>
+        <CardTitle className="text-center">Login with Chris Villaruel</CardTitle>
         <CardDescription className="text-center">
           Enter your email below to login to your account
         </CardDescription>
